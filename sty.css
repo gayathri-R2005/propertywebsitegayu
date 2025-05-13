@@ -1,0 +1,21 @@
+.cls1{
+    height:100px;
+    width:100PX;
+    background-image:linear-gradient(pink);
+}
+.cls2{
+    height:100px;
+    width:100PX;
+    background-image:linear-gradient(grey);
+}
+.cls3{
+    height:100px;
+    width:100PX;
+    background-image:linear-gradient(black);
+}
+.parent{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50pc;
+}
